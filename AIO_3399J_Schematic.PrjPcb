@@ -427,7 +427,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XPOXMRPN
 
 [Document24]
 DocumentPath=3399_altium_libs\DC-044A.PcbLib
@@ -478,7 +478,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=URSNKKHQ
 
 [Document27]
 DocumentPath=3399_altium_libs\LED.PcbLib
@@ -495,7 +495,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EILYGVDI
 
 [Document28]
 DocumentPath=3399_altium_libs\MISC.PcbLib
@@ -512,7 +512,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JMOGEYQH
 
 [Document29]
 DocumentPath=3399_altium_libs\MSMD300_3A .PcbLib
@@ -529,7 +529,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IPYNPAYE
 
 [Document30]
 DocumentPath=3399_altium_libs\QFP.PcbLib
@@ -546,7 +546,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OTRGIMEH
 
 [Document31]
 DocumentPath=3399_altium_libs\SC.PcbLib
@@ -563,7 +563,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CQOOPHCF
 
 [Document32]
 DocumentPath=3399_altium_libs\SOT.PcbLib
@@ -580,7 +580,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEXHAYAV
 
 [Document33]
 DocumentPath=3399_altium_libs\Sockets.PcbLib
@@ -597,7 +597,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YDNSMSEO
 
 [Document34]
 DocumentPath=3399_altium_libs\SOIC.PcbLib
@@ -615,6 +615,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUPQMNOI
+
+[Document35]
+DocumentPath=3399_altium_libs\SOP-20.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QMHBAPSI
 
 [Configuration1]
 Name=Default Configuration
@@ -854,7 +871,7 @@ OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType16=Schematic Print
 OutputName16=Schematic Prints
-OutputDocumentPath16=C:\Users\Public\Documents\Altium\Projects\AIO_3399J_Schematic\DC_IN.SchDoc
+OutputDocumentPath16=C:\Users\Public\Documents\Altium\Projects\AIO_3399J_Schematic\CAMERA.SchDoc
 OutputVariantName16=
 OutputDefault16=0
 PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
