@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [AIO_3399J_Schematic.PrjPcb]
+   Generated File[AIO_3399J_Schematic.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:21:12 AM On 24/7/19
