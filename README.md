@@ -53,3 +53,8 @@ File name: [PCB1.PcbDoc](https://drive.google.com/open?id=1oYo6f8AIiO_Baim5X66vK
 * Find the selling pages: DONE
 * Arrange components: WORKING...
 * Layout PCB: NOT START
+
+## CONTACT US
+
+* Representative group - [NPNLab - Facebook](https://www.facebook.com/npnlab/) - 
+* Author: Le Nam - [Facebook](https://www.facebook.com/phuongnam09071997) - Gmail: phuongnam0907@gmail.com
