@@ -1,6 +1,6 @@
 # AIO_3399J_Schematic
 
-This project is about the extension board of RK3399.
+This project is about the extension board of RK3399. <b>
 Using Alitum Designer 16.0.
 
 ## Source file
