@@ -43,7 +43,7 @@ File name: [PCB1.PcbDoc](https://drive.google.com/open?id=1oYo6f8AIiO_Baim5X66vK
 * [Schematic PDF](https://drive.google.com/open?id=1R6FD8yDX8TZWr_s7T2mv-ab-T4vIx-GR)
 * [Component PDF](https://drive.google.com/open?id=1WSREZnqPhaE0h6c_ClDqyp0mO7hUwuOW)
 * [PCB file](https://drive.google.com/open?id=1oYo6f8AIiO_Baim5X66vK8-PeJn_BONV)
-* [ZIP project]() - my project is working on
+* [ZIP project](https://drive.google.com/open?id=1nALgkL5E6yplnEvHVyEXHfG_tQJ_tbaY) - my project is working on
 * [Excel file](https://docs.google.com/spreadsheets/d/1HOSYBW_T4xmk_lhw7aOmpkcXFCVgZ-3yx9ZxeW9UKn0/edit?usp=sharing) - including components and pages that are being sold
 
 ## Status of project
@@ -56,5 +56,5 @@ File name: [PCB1.PcbDoc](https://drive.google.com/open?id=1oYo6f8AIiO_Baim5X66vK
 
 ## CONTACT US
 
-* Representative group - [NPNLab - Facebook](https://www.facebook.com/npnlab/) - 
+* Representative group - [NPNLab - Facebook](https://www.facebook.com/npnlab/)
 * Author: Le Nam - [Facebook](https://www.facebook.com/phuongnam09071997) - Gmail: phuongnam0907@gmail.com
